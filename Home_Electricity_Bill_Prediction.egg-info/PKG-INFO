@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: Home-Electricity-Bill-Prediction
+Version: 0.0.1
+Summary: This is a project to predict the home electricity bill
+Home-page: https://github.com/pranjalsinha1965/Electricity-Bill-Predictor.git
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: joblib
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+# Electricity-Bill-Predictor
