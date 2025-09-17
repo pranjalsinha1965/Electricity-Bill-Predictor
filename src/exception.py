@@ -32,7 +32,7 @@ class FileOperatorError(Exception):
 if __name__ == "__main__": 
     try: 
         # cause a ZeroDivisionError
-        a = 1/0
+        a = 1/1
     except Exception as e: 
         # log some additional info
         logging.info("It is not possible: Division by Zero Error")

@@ -1,0 +1,7 @@
+[ 2025-09-17 11:40:28,740 ] 24 root - INFO - Commencing data ingestion
+[ 2025-09-17 11:40:28,794 ] 28 root - INFO - Successfully read the data
+[ 2025-09-17 11:40:29,160 ] 35 root - INFO - Successfully created the raw data directory
+[ 2025-09-17 11:40:29,169 ] 38 root - INFO - Successfully plsit the data
+[ 2025-09-17 11:40:29,672 ] 42 root - INFO - Successfully created the train data directory
+[ 2025-09-17 11:40:30,320 ] 47 root - INFO - Successfully exited the data splitting process
+[ 2025-09-17 11:40:30,321 ] 67 root - INFO - Data ingestion completed successfully
